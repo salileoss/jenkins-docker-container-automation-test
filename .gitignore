@@ -14,3 +14,4 @@ target/*
 !.vscode/launch.json
 !.vscode/extensions.json
 _site/
+hs_err_pid45040.log
